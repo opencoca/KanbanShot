@@ -4,6 +4,8 @@ Kanban's work management system is designed to help you visualize your work, lim
 
 Kanban is the Japanese word for visual signals. With so many of us working in services and technology, our work is frequently invisible or intangible. Kanban helps you visualize your jobs, to understand them better, show these to others, and keep everyone on the same page.
 
+## [![Run on Repl.it](https://repl.it/badge/github/opencoca/KanbanShot)](https://repl.it/github/opencoca/KanbanShot)
+
 ## Building and running on localhost
 
 First install dependencies:
