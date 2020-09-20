@@ -34,4 +34,4 @@ To run the build open the file `public/index.html` in your browser
 
 ## Credits
 
-https://github.com/nmaro/gun-kanban/
+Heavily inspired by https://github.com/nmaro/gun-kanban/, one could even say hard forked.
